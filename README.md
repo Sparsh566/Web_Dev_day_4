@@ -91,3 +91,7 @@ Ensured images don’t overflow
 📸 Screenshots 
 Desktop view screenshot
 Mobile view screenshot using Brave DevTools
+
+Clone the repository:
+
+git clone https://github.com/Sparsh566/Web_Dev_day_4
